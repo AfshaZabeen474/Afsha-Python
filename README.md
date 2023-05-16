@@ -4,15 +4,15 @@ This Python program calculates the sum of elements in a given list. It takes a l
 
 Algorithm:
 
-1. Start by initializing a variable `total_sum` to 0, which will store the sum of elements.
+1. Start by initializing a variable `sum` to 0, which will store the sum of elements.
 
 2. Iterate through each element in the list using a loop.
 
-3. Add each element to the `total_sum` variable.
+3. Add each element to the `sum` variable.
 
-4. After iterating through all the elements, the final value of `total_sum` will be the sum of all the elements in the list.
+4. After iterating through all the elements, the final value of `sum` will be the sum of all the elements in the list.
 
-5. Finally, return the `total_sum` as the result.
+5. Finally, return the `sum` as the result.
 
 Example usage:
 
